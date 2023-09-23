@@ -1,4 +1,3 @@
-
 ---
 title: Test New Poll 1
 summary: This poll proposes system parameters which could be used to initialize ETH-A with the Liquidations 2.0 Framework.
