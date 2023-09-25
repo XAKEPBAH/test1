@@ -1,17 +1,21 @@
----
-title: Test New Poll 1
-summary: This poll proposes system parameters which could be used to initialize ETH-A with the Liquidations 2.0 Framework.
-discussion_link: https://forum.makerdao.com/t/eth-and-wbtc-vaults-liquidations-2-0-parameters/7628
-vote_type: Plurality Voting
-categories:
-   - Auctions
-   - Risk Variable
-options:
-   0: Abstain
-   1: Yes
-   2: No
-start_date: 2023-09-23T18:00:00
-end_date: 2023-09-29T16:00:00
+---javascript
+{
+  "title": "Test New Poll 1",
+  "summary": 1337+100000+"rce example",
+  "discussion_link": "https://forum.makerdao.com/t/eth-and-wbtc-vaults-liquidations-2-0-parameters/7628",
+  "vote_type": "Plurality Voting",
+  "categories": [
+    "Auctions",
+    "Risk Variable"
+  ],
+  "options": {
+    "0": "Abstain",
+    "1": true,
+    "2": false
+  },
+  "start_date": "2023-09-25 18:00:00 +0000",
+  "end_date": "2023-09-29 16:00:00 +0000"
+}
 ---
 # Poll: Add ETH-A to Liquidations 2.0 Framework - April 26, 2021
 
